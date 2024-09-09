@@ -10,11 +10,11 @@
   Provides a visual representation of sales trends.
 
 2. Top Products by Sales:
-  Lists the top-selling products based on sales volume.
-  Helps identify popular items and inform inventory management.
+ *  Lists the top-selling products based on sales volume.
+ * Helps identify popular items and inform inventory management.
 
 3. Total Sales By store Location 
-  Displays sales data for each Store Location , Difference Sales And MOM Sales
+  * Displays sales data for each Store Location , Difference Sales And MOM Sales
 
 4. Sales By Days And Hours
-   Display The Sales in each hour 
+  * To Identify The Hours with Highest Sales 
